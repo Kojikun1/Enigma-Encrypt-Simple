@@ -5,7 +5,7 @@ Enigma Encript is just Encrypt frases (strings)
 
 can use Any personal Key Values;
 
-is a Very simple encription
+its a Very simple encryption
 
 to Run just open the index.html file
 
